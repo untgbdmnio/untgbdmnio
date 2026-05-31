@@ -13,6 +13,60 @@ I'm currently learning **Actively seeking new professional opportunities and pro
 
 </div>
 
+
+<h2 align="left">My Tools of the Trade.</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="25" alt="css logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="25" alt="php logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" alt="bootstrap logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="25" alt="jquery logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="25" alt="flutter logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="25" alt="nestjs logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="25" alt="laravel logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="25" alt="sqlite logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="25" alt="supabase logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="25" alt="prisma logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="25" alt="gitlab logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
+</div>
+
+
 ## Contact & Links
 
 <div align="left">
@@ -42,3 +96,25 @@ I'm currently learning **Actively seeking new professional opportunities and pro
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/untgbdmnio) 
 
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/pacman-output/puzzle-bobble-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/pacman-output/puzzle-bobble-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/stats-output/stats.svg" height="132" alt="stats graph"  />
+</div>
+
+###
