@@ -16,7 +16,7 @@ I'm currently learning **Actively seeking new professional opportunities and pro
 
 <h2 align="left">My Tools of the Trade.</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
   <img width="11" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="25" alt="css logo"  />
@@ -96,25 +96,3 @@ I'm currently learning **Actively seeking new professional opportunities and pro
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/untgbdmnio) 
 
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/untgbdmnio/untgbdmnio/stats-output/stats.svg" height="132" alt="stats graph"  />
-</div>
-
-###
