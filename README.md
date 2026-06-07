@@ -66,6 +66,31 @@ I'm currently learning **Actively seeking new professional opportunities and pro
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+<table border="1" cellpadding="16" cellspacing="0">
+  <tr>
+    <td align="center" width="170">
+      <strong>10+</strong><br/>
+      <sub>Projects</sub>
+    </td>
+    <td align="center" width="170">
+      <strong>5</strong><br/>
+      <sub>Completed</sub>
+    </td>
+    <td align="center" width="170">
+      <strong>TS & JS</strong><br/>
+      <sub>Top Language</sub>
+    </td>
+    <td align="center" width="170">
+      <strong>Next.js & Hono</strong><br/>
+      <sub>Framework</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 ## Contact & Links
 
